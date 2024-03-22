@@ -4,7 +4,7 @@ This object will repeatedly change its texture to an assigned image.
 # Getting Started
 
 To assign a filepath, first double click on *ODLC_Blue_Blueprint* as shown in the image below.
-![alt text]([ODLC_Insert_Object/README%20Images/Blueprint%20Object.png]))
+![alt text]([ODLC_Insert_Object/README_Images/Blueprint Object.png]))
 
 Next, change the *ODLCFile Path* string variable to the absolute path of the location of the images on your computer as shown below.
 ![alt text]([ODLC_Insert_Object/README%20Images/Filepath%20String.png])
