@@ -18,5 +18,5 @@ To use this blueprint to its fullest potential, you should procedurally change t
 
 This blueprint updates the texture to the image filepath every 10 seconds. To change this, double click on *ODLC_Blue_Blueprint*, expand EventGraph, double click on Event BeginPlay, and change the number in the specific blueprint node shown below.
 
-![alt text]([ODLC_Insert_Object/README%20Images/Delay.png])
+![alt text]([ODLC_Insert_Object/README Images/Delay.png])
 
