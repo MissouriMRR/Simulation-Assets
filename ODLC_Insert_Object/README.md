@@ -4,7 +4,6 @@ This object will repeatedly change its texture to an assigned image.
 # Getting Started
 
 To assign a filepath, first double click on *ODLC_Blue_Blueprint* as shown in the image below.
-![alt text]([ODLC_Insert_Object/README_Images/Blueprint Object.png]))
 
 Next, change the *ODLCFile Path* string variable to the absolute path of the location of the images on your computer as shown below.
 !([ODLC_Insert_Object/README_Images/Delay.png])
@@ -18,5 +17,4 @@ To use this blueprint to its fullest potential, you should procedurally change t
 
 This blueprint updates the texture to the image filepath every 10 seconds. To change this, double click on *ODLC_Blue_Blueprint*, expand EventGraph, double click on Event BeginPlay, and change the number in the specific blueprint node shown below.
 
-![alt text]([ODLC_Insert_Object/"README Images"/Delay.png])
 
